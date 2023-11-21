@@ -1,7 +1,6 @@
 
 <table>
   <tr>
-    <td>
       
 - [@seniorcoder72, Welcome!](#seniorcoder72-welcome)
   - [My personal values and work ethic](#my-personal-values-and-work-ethic)
@@ -14,7 +13,6 @@
     - [😂 Random Dev Meme](#-random-dev-meme)
 - [Do you want to see my past work?](#do-you-want-to-see-my-past-work)
 
-    </td>
   </tr>
 </table>
 
