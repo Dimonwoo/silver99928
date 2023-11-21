@@ -15,11 +15,6 @@
 - [Do you want to see my past work?](#do-you-want-to-see-my-past-work)
 
     </td>
-    <td>    
-      <a href="https://seniorcoder72.github.io"><img src="https://github.com/seniorcoder72/dynamic-post-nextjs/blob/master/public/profile-logo.png"/></a>
-      https://trademarktoday-nextjs.vercel.app <br/>
-      https://trademarktoday-nextjs-rbxk.vercel.app
-    </td>
   </tr>
 </table>
 
