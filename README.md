@@ -2,7 +2,7 @@
 <table>
   <tr>
       
-- [👋 Welcome to my profile! 👋](#silver99928-welcome)
+- [👋 Welcome to my profile! 👋](#welcome-to-my-profile)
   - [My personal values and work ethic](#my-personal-values-and-work-ethic)
   - [Rapidfire](#rapidfire)
   - [Languages and Tools](#languages-and-tools)
