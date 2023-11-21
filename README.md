@@ -2,7 +2,7 @@
 <table>
   <tr>
       
-- [@silver99928, Welcome!](#silver99928-welcome)
+- [👋 Welcome to my profile! 👋](#silver99928-welcome)
   - [My personal values and work ethic](#my-personal-values-and-work-ethic)
   - [Rapidfire](#rapidfire)
   - [Languages and Tools](#languages-and-tools)
@@ -17,7 +17,8 @@
 </table>
 
 
-# @silver99928, Welcome!
+# 👋 Welcome to my profile! 👋
+
   
 
 <a href="https://github.com/silver99928" target="_blank">
